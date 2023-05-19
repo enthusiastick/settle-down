@@ -33,8 +33,8 @@ Icon | Character | Text
 
 Icon | Character | Text
 --- | --- | ---
+![Assassin](https://wiki.bloodontheclocktower.com/images/4/49/Icon_assassin.png) | **Assassin** | Once per game, at night*, choose a player: they die, even if for some reason they could not.
 ![Boomdandy](https://wiki.bloodontheclocktower.com/images/2/20/Icon_boomdandy.png) | **Boomdandy** | If you are executed, all but 3 players die. 1 minute later, the player with the most players pointing at them, dies.
-![Mastermind](https://wiki.bloodontheclocktower.com/images/d/d5/Icon_mastermind.png) | **Mastermind** | If the Demon dies by execution (ending the game), play for 1 more day. If a player is then executed, their team loses.
 ![Pit-Hag](https://wiki.bloodontheclocktower.com/images/6/6b/Icon_pithag.png) | **Pit-Hag** | Each night*, choose a player & a character they become (if not in play). If a Demon is made, deaths tonight are arbitrary.
 ![Spy](https://wiki.bloodontheclocktower.com/images/5/54/Icon_spy.png) | **Spy** | Each night, you see the Grimoire. You might register as good & as a Townsfolk or Outsider, even if dead.
 
